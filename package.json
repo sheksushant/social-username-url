@@ -1,8 +1,8 @@
 
 {
   "name": "social-username-url",
-  "version": "0.0.1",
-  "description": "A utility library to convert a username to url.",
+  "version": "0.0.2",
+  "description": "Convert the Social username to URL and Social URL to username.",
   "main": "social-username-url.js",
   "scripts": {
   },
