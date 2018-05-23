@@ -1,0 +1,24 @@
+
+{
+  "name": "social-username-url",
+  "version": "0.0.1",
+  "description": "A utility library to convert a username to url.",
+  "main": "social-username-url.js",
+  "scripts": {
+
+  },
+  "keywords": [
+    "social media",
+    "profile",
+    "username",
+    "create link",
+    "convert username to url",
+    "url",
+    "link"
+  ],
+  "author": "sushantshek20 <sushantshekhar20@gmail.com> ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sushantshek20/social-username-url/issues"
+  }
+}
