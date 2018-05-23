@@ -1,7 +1,7 @@
 Social Username to URL
 =========
 
-Convert the Social username to URL..
+Convert the Social username to URL.
 
 Installation
 ----
