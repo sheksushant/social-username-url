@@ -26,6 +26,8 @@ exports.UsernametoURL = function (username, social_site_name) {
     } 
     if (social_site_name === 'product-hunt') {
         return `https://www.producthunt.com/${username}`
+    }     if (social_site_name === 'facebook-messenger') {
+        return `https://m.me/${username}`
     }  else {
         return 'Social Site Name is Unknown.';
     }
